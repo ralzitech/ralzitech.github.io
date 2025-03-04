@@ -1,0 +1,71 @@
+/* Place your CSS styles in this file */
+@font-face {
+    font-family: Righteous;
+    src: url(assets/righteous.ttf);
+  }
+  
+  div {
+    font-family: myFirstFont;
+  }
+
+  
+h1 {
+    color: rgb(0, 119, 255);
+    text-align: center;
+    font-family: "Righteous";
+    font-weight: bolder;
+}
+
+ul {
+    color: lightblue;
+    text-align: center;
+    font-family: "Righteous";
+    font-weight: normal;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 119, 255);
+    text-align: center;
+    font-family: "Righteous";
+    font-weight: bold;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Righteous";
+    font-weight: normal;
+}
+
+a {
+    color: rgb(149, 0, 255);
+    font-family: "Righteous";
+    font-weight: normal;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  body {
+    background-color: lightblue;
+  }
+
+  header {
+    margin: auto;
+    width: 50%;
+    background-color: solid rgb(255, 255, 255);
+    padding: 5px;
+  }
