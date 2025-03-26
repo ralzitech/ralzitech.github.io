@@ -4,7 +4,7 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 
 ## Directories
 
-- /assests: This is where site assets may be stored
+- /assests: This is where site assets will be stored excluding the stylesheet
 - /static: This is where small file downloads are uploaded to. Unlike /img, this is supposed to be dedicated to the site only, and not to uploads that are meant to be shared elsewhere
 - /redir: This is where I will put redirects to other sites in so that I don't need to type out the whole URL
 - /img: This is an image directory that I will use to share images in servers that I don't have permission to share in
