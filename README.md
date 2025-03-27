@@ -1,6 +1,6 @@
-# ralzitech.github.io
+# ralzitech.github.io (aka RalziTech.com
 
-This is where my website is hosted, which is essentially a wrapper for my Wix site, just without the banner at the top. It's one of the many sites using [mine and Jibbosh's WixView Project](https://ralzi.jibbosh.com/wixview)
+This is where my website is hosted, which is essentially a wrapper for my Wix site, just without the banner at the top. It's one of the many sites using [mine and Jibbosh's WixView Project](https://ralzitech.com/wixview)
 
 ## Directories
 
