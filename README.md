@@ -6,7 +6,7 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 
 - Both ralzitech.github.io and RalziTech.com are known to be blocked on school networks, including on London Grid for Learning. This is a problem out of our control that will require someone at LGfL to manually approve the site. If you want my website unblocked in your school, **I cannot help you in that scenario** - you will need to contact your nominated contact/IT admin to get it unblocked.
 
-## Directories
+## Directories explained
 
 - /assests: This is where site assets will be stored excluding the stylesheet
 - /static: This is where small file downloads are uploaded to. Unlike /img, this is supposed to be dedicated to the site only, and not to uploads that are meant to be shared elsewhere
