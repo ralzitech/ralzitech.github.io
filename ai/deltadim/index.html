@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deltadim Anomaly Report</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Deltadim Anomaly Report</h1>
+    <p>Report the vanishing of Deltadim chunks.</p>
+  </header>
+
+  <main>
+    <section id="report-form">
+      <h2>Report a Vanishing</h2>
+      <form id="vanishing-form">
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required placeholder="e.g., Sector 7, near the Crystal Caves">
+
+        <label for="size">Size of Vanished Chunk:</label>
+        <select id="size" name="size">
+          <option value="small">Small (house-sized)</option>
+          <option value="medium">Medium (neighborhood-sized)</option>
+          <option value="large">Large (city-sized)</option>
+          <option value="massive">Massive (continental)</option>
+        </select>
+
+        <label for="time">Time of Vanishing:</label>
+        <input type="datetime-local" id="time" name="time" required>
+
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="4" placeholder="Describe what you saw/experienced." required></textarea>
+
+        <button type="submit">Submit Report</button>
+      </form>
+    </section>
+
+    <section id="recent-reports">
+      <h2>Recent Reports</h2>
+      <div id="reports-container">
+        <!-- Reports will be dynamically added here -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Deltadim Anomaly Reporting Service</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
