@@ -6,6 +6,8 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 
 - Both ralzitech.github.io and RalziTech.com are known to be blocked on school networks, including on London Grid for Learning. This is a problem out of our control that will require someone at LGfL to manually approve the site. If you want my website unblocked in your school, **I cannot help you in that scenario** - you will need to contact your nominated contact/IT admin to get it unblocked.
 
+- Sometimes when clicking on the "Start RalziTech WixView" button in the header, you may get stuck on a blue screen. The fix to this is usually reloading the page (CTRL + R) or clearing your cookies (you can do this from your browser's settings). Usually reloading your shirt works first time, so try that first before anything else.
+
 ## Directories explained
 
 - /assests: This is where site assets will be stored excluding the stylesheet
