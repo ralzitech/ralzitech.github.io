@@ -17,3 +17,10 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 - /redir: This is where I will put redirects to other sites in so that I don't need to type out the whole URL
 - /img: This is an image directory that I will use to share images in Discord/Revolt servers that I don't have permission to share in
 - /ai: This is where I'll put all of the website that I get WebsimAI to generate. This directory within itself is set to have an index file when I'm eveuntually done with it
+
+## Files explained
+*Mobile.html, index.html, 404/403.html and offline.html are all very much self explanatory*
+
+- cherryhencefox.md: The only markdown page on this site besides this Readme here - it's a thank you message that I wrote to Cherry Hencefox for getting me through some difficult times (and more)
+- CNAME: The record that allows my website to communicate with my custom domain, RalziTech.com
+- Wix.html: The new page for where WixView will be kept
