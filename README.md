@@ -24,3 +24,4 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 - cherryhencefox.md: The only markdown page on this site besides this Readme here - it's a thank you message that I wrote to Cherry Hencefox for getting me through some difficult times (and more)
 - CNAME: The record that allows my website to communicate with my custom domain, RalziTech.com
 - Wix.html: The new page for where WixView will be kept
+- myinstant.html: This is where I will put all of the sounds I have uploaded to myinstants.com
