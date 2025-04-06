@@ -8,7 +8,7 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 
 - Sometimes when clicking on the "Start RalziTech WixView" button in the header, you may get stuck on a blue screen. The fix to this is usually reloading the page (CTRL + R) or clearing your cookies (you can do this from your browser's settings). Usually reloading works first time, so try that first before anything else.
 
-- The Busmiles embed on the main index page can be a little oversized depending on what device you are using. I am working on a fix to this and will be implementing it as soon as I can
+- ~~The Busmiles embed on the main index page can be a little oversized depending on what device you are using. I am working on a fix to this and will be implementing it as soon as I can~~ This feature has finally been fixed!! 🥳
 
 ## Directories explained
 
