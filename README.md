@@ -10,6 +10,9 @@ This is where my website is hosted, which is essentially a wrapper for my Wix si
 
 - ~~The Busmiles embed on the main index page can be a little oversized depending on what device you are using. I am working on a fix to this and will be implementing it as soon as I can~~ This feature has finally been fixed!! 🥳
 
+![image](https://github.com/user-attachments/assets/4d5ae0e6-11ab-4fe8-aa42-73c3618ebc98)
+
+
 ## Directories explained
 
 - /assests: This is where site assets will be stored excluding the stylesheet
