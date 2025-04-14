@@ -1,0 +1,84 @@
+@font-face {
+    font-family: Righteous;
+    src: url(https://ralzitech.com/assets/righteous.ttf);
+  }
+  
+
+
+body {
+  font-family: Righteous;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+
+hr {
+  color:#000000;
+  outline: #000000;
+}
+
+header {
+  background-color: #03a1fc;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+havheader { 
+  margin: 0;
+  padding: 0; 
+  font-size: 2;
+  background-color: #4e60c7;
+  text-align: center;
+}
+
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+section h2 {
+  margin-bottom: 10px;
+}
+
+section ul {
+  list-style: none;
+  padding: 0;
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+section ul li a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
